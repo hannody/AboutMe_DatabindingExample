@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="tvText_text">Mohanad Abu-Nayla</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="tvBioText">I am an experienced agile software developer since 2010,
+        my professional work is in Game Development, Computer Vision, Machine Learning,
+        Deep Learning, Web APIs and Android platform. I worked as a solo developer (freelancing)
+        and as a team member of various team sizes while serving clients from around the globe.
+    </string>
+    <string name="nickNameTV">You\'r Nickname</string>
+    <string name="btn_confirm_text">Confirm</string>
+
+</resources>
